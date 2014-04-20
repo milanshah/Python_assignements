@@ -14,5 +14,3 @@ def celsius_fahrenheit(temp_str, temp_num):
                                 
     else:
         print("Unknown string: ",temp_str)
-
-                            
